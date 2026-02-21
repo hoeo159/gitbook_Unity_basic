@@ -26,6 +26,7 @@
 * [Property](undefined-2/property.md)
 * [Line Renderer](undefined-2/line-renderer.md)
 * [FK와 IK](undefined-2/fk-ik.md)
+* [static class](undefined-2/static-class.md)
 
 ## 덕르코프 느낌의 쿼터뷰 슈팅
 
